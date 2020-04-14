@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+    <string name="tvQuestionText">What kind of animal is this?</string>
+    <string name="ivPictureDescription">picture of a giraffe</string>
+    <string name="etAnswerText">Species</string>
+    <string name="etAnswerHint">Tall animal</string>
+    <string name="btnConfirmText">Confirm</string>
+
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+</resources>
